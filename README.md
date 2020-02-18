@@ -1,4 +1,4 @@
-# crmproject [crmproject](https://vueprogect.web.app)
+# [crmproject](https://vueprogect.web.app)
 
 ## Project setup
 ```
